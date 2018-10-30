@@ -77,6 +77,7 @@
     "kDismiss"                   :"Anuluj",
     "kDone"                      :"gotowe",
     "kDownload"                  :"Pobierz",
+    "kTapDownloadLogs"           :"Wciśnij przycisk by pobrać logi",
     "kDownloadVideoImage"        :"Aby pobrać wciśnij poniższy przycisk. Jeśli pobierasz Video, nie ma paska postępu, monitoruj więc wielkość pliku.",
     "kEmailNotConfigured"        :"Email nie został skonfigurowany",
     "kEnable24hr"                :"Włącz format czasu 24 godz.",

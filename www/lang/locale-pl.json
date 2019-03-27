@@ -383,6 +383,8 @@
     "kTimelineEvent"             :"przeglądaj zdarzenia",
     "kTimelineGraph"             :"analizuj klatki",
     "kTimelineMessage"           :"Podwójne stuknięcie - wyjście. Dotknięcie i przesuwanie elementów pozwala przeglądać klatki",
+    "kTimelineThumbDesktop"      :"najedź, aby wyświetlić miniatury",
+    "kTimelineThumbMobile"       :"przytrzymaj, aby wyświetlić miniatury",
     "kTimelineOnlyDisplaying1"   :"wyświetla tylko {{maxItemsVal}} ostatnich zdarzeń",
     "kTimelineTap"               :"dotknij",
     "kTo"                        :"do",
